@@ -4,7 +4,7 @@
 A project leverages PySpark to predict consumer churn data with machine learning.
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src = "images/title page.png" width = "1000">
 
 
 ## Abstract
@@ -172,7 +172,7 @@ Each section is described below.
 
 - Churn Reason: A customer’s specific reason for leaving the company. Directly related to Churn Category.
 ## Methodology
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src = "images/Flowchart.png">
 
 
 ## Run Locally
@@ -180,7 +180,7 @@ Each section is described below.
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/manyuzhang1996/Consumer-Churn-Prediction-with-PySpark.git
 ```
 
 ## Contact
