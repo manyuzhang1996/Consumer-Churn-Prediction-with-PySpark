@@ -12,7 +12,7 @@ Consumer churn is a major concern in various industries, including the telecommu
 
 **Keywords: Consumer Churn Prediction, Machine Learning, Data Imbalanced, Telecommunication, Ensemble Methods, Resampling**
 ## Skills
-Python, PySpark, Apache Spark, Big Data
+Python, PySpark, Apache Spark, Big Data, Data Mining
 
 
 ## Data Source
